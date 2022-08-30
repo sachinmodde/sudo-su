@@ -1,3 +1,2 @@
-# sudo-su
-habibi namaste 
-sachin
+git init 
+git remote add origin httpd link
